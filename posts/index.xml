@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Faisal Kholid | Site &amp; Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 14:13:56 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 13:13:12 +0800</lastBuildDate>
     
 	<atom:link href="http://faisalkholid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>UI Music Player Portofolio</title>
+      <link>http://faisalkholid.github.io/2019/uiportofolio/</link>
+      <pubDate>Tue, 17 Dec 2019 13:13:12 +0800</pubDate>
+      
+      <guid>http://faisalkholid.github.io/2019/uiportofolio/</guid>
+      <description>Music Player Music Player v.0.0.1 Saya buat menggunakan Adobe XD. Icon menggunakan material ICON.</description>
     </item>
     
     <item>
