@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Faisal Kholid | Site &amp; Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2019 13:13:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 13:29:35 +0800</lastBuildDate>
     
 	<atom:link href="http://faisalkholid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -33,12 +33,21 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>UI Notification</title>
+      <link>http://faisalkholid.github.io/2019/uinotification/</link>
+      <pubDate>Tue, 17 Dec 2019 13:29:35 +0800</pubDate>
+      
+      <guid>http://faisalkholid.github.io/2019/uinotification/</guid>
+      <description>Notification UI/UX Tools : Adobe XD, Icon : Material,&amp;hellip; a simple UI notification.</description>
+    </item>
+    
+    <item>
       <title>UI Music Player Portofolio</title>
       <link>http://faisalkholid.github.io/2019/uiportofolio/</link>
       <pubDate>Tue, 17 Dec 2019 13:13:12 +0800</pubDate>
       
       <guid>http://faisalkholid.github.io/2019/uiportofolio/</guid>
-      <description>Music Player Music Player v.0.0.1 Saya buat menggunakan Adobe XD. Icon menggunakan material ICON.</description>
+      <description>Music Player Music Player UI A simple UI made with Adobe XD and Material Icon.</description>
     </item>
     
     <item>
