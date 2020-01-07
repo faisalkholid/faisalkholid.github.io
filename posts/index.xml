@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Faisal Kholid | Site &amp; Portofolio</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Faisal Kholid | Site &amp; Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2019 16:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 15:03:00 +0800</lastBuildDate>
     
 	<atom:link href="http://faisalkholid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://faisalkholid.github.io/2014/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -29,7 +29,16 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <guid>http://faisalkholid.github.io/2014/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>UI Incoming Call</title>
+      <link>http://faisalkholid.github.io/2020/uicall/</link>
+      <pubDate>Tue, 07 Jan 2020 15:03:00 +0800</pubDate>
+      
+      <guid>http://faisalkholid.github.io/2020/uicall/</guid>
+      <description>UI Incoming Call Tools : adobe XD Icon : Material Icon</description>
     </item>
     
     <item>
@@ -100,8 +109,8 @@ Follow the following steps:
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://faisalkholid.github.io/2014/goisforlovers.fr/</guid>
-      <description>Hugo utilise l&amp;rsquo;excellente librairie go html/template pour son moteur de modèles. c&amp;rsquo;est un moteur extrêmement léger qui offre un très petit nombre de fonctions logiques. À notre expérience, c&amp;rsquo;est juste ce qu&amp;rsquo;il faut pour créer un bon site web statique. Si vous avez déjà utilisé d&amp;rsquo;autre moteurs de modèles pour différents langages ou frameworks, vous allez retrouver beaucoup de similitudes avec les modèles go.
-Ce document est une introduction sur l&amp;rsquo;utilisation de Go templates.</description>
+      <description>Hugo utilise l&#39;excellente librairie go html/template pour son moteur de modèles. c&#39;est un moteur extrêmement léger qui offre un très petit nombre de fonctions logiques. À notre expérience, c&#39;est juste ce qu&#39;il faut pour créer un bon site web statique. Si vous avez déjà utilisé d&#39;autre moteurs de modèles pour différents langages ou frameworks, vous allez retrouver beaucoup de similitudes avec les modèles go.
+Ce document est une introduction sur l&#39;utilisation de Go templates.</description>
     </item>
     
   </channel>
