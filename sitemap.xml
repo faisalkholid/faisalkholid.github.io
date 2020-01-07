@@ -32,7 +32,7 @@
     <url>
       <loc>http://faisalkholid.github.io/categories/</loc>
       
-      <lastmod>2020-01-07T15:03:00+08:00</lastmod>
+      <lastmod>2020-01-07T15:42:43+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -46,7 +46,21 @@
     <url>
       <loc>http://faisalkholid.github.io/</loc>
       
-      <lastmod>2020-01-07T15:03:00+08:00</lastmod>
+      <lastmod>2020-01-07T15:42:43+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://faisalkholid.github.io/2020/myresume/</loc>
+      
+      <lastmod>2020-01-07T15:42:43+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -60,21 +74,7 @@
     <url>
       <loc>http://faisalkholid.github.io/posts/</loc>
       
-      <lastmod>2020-01-07T15:03:00+08:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://faisalkholid.github.io/2020/uicall/</loc>
-      
-      <lastmod>2020-01-07T15:03:00+08:00</lastmod>
+      <lastmod>2020-01-07T15:42:43+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -87,6 +87,20 @@
   
     <url>
       <loc>http://faisalkholid.github.io/categories/ui/ux/</loc>
+      
+      <lastmod>2020-01-07T15:42:43+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://faisalkholid.github.io/2020/uicall/</loc>
       
       <lastmod>2020-01-07T15:03:00+08:00</lastmod>
       
@@ -268,7 +282,7 @@
     </url>
   
     <url>
-      <loc>http://faisalkholid.github.io/tags/golang/</loc>
+      <loc>http://faisalkholid.github.io/categories/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -282,7 +296,7 @@
     </url>
   
     <url>
-      <loc>http://faisalkholid.github.io/categories/golang/</loc>
+      <loc>http://faisalkholid.github.io/tags/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
