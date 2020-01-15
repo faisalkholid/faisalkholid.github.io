@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Faisal Kholid | Site &amp; Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 12:06:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 06:41:25 +0800</lastBuildDate>
     
 	<atom:link href="http://faisalkholid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,16 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Meetup Perdana UXiD Lombok</title>
+      <link>http://faisalkholid.github.io/2020/meetup/</link>
+      <pubDate>Thu, 16 Jan 2020 06:41:25 +0800</pubDate>
+      
+      <guid>http://faisalkholid.github.io/2020/meetup/</guid>
+      <description>UXiD hay guys&amp;hellip; apa kabar kali ini saya mau berbagi sedikit tentag salah satu komunitas di Lombok namanya komunitas UxiD indukya sih UXiD Indonesia tapi disini kita buat untuk regionalnya, komunitas ini khusus untuk teman-teman yang suka dengan desain dan berfokus pada User Interface dan User Experience. tempat sharing dan lain-lain pokoknya komunitas itu seru deh&amp;hellip;
+ini dia link telegram dan website UXiD telegram UXiD Lombok : https://t.me/uxidlombok/ website UXiD Indonesia : https://uxid.</description>
     </item>
     
     <item>
