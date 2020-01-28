@@ -32,7 +32,7 @@
     <url>
       <loc>http://faisalkholid.github.io/categories/</loc>
       
-      <lastmod>2020-01-16T06:41:25+08:00</lastmod>
+      <lastmod>2020-01-28T15:21:34+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -46,21 +46,7 @@
     <url>
       <loc>http://faisalkholid.github.io/</loc>
       
-      <lastmod>2020-01-16T06:41:25+08:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://faisalkholid.github.io/2020/meetup/</loc>
-      
-      <lastmod>2020-01-16T06:41:25+08:00</lastmod>
+      <lastmod>2020-01-28T15:21:34+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -74,7 +60,21 @@
     <url>
       <loc>http://faisalkholid.github.io/posts/</loc>
       
-      <lastmod>2020-01-16T06:41:25+08:00</lastmod>
+      <lastmod>2020-01-28T15:21:34+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://faisalkholid.github.io/2020/redesignhutangapp/</loc>
+      
+      <lastmod>2020-01-28T15:21:34+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -87,6 +87,20 @@
   
     <url>
       <loc>http://faisalkholid.github.io/categories/ui/ux/</loc>
+      
+      <lastmod>2020-01-28T15:21:34+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://faisalkholid.github.io/2020/meetup/</loc>
       
       <lastmod>2020-01-16T06:41:25+08:00</lastmod>
       

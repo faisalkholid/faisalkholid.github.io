@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Faisal Kholid | Site &amp; Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2020 06:41:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 15:21:34 +0800</lastBuildDate>
     
 	<atom:link href="http://faisalkholid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,16 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Redesign Hutang App</title>
+      <link>http://faisalkholid.github.io/2020/redesignhutangapp/</link>
+      <pubDate>Tue, 28 Jan 2020 15:21:34 +0800</pubDate>
+      
+      <guid>http://faisalkholid.github.io/2020/redesignhutangapp/</guid>
+      <description>Redesign Hutang App Hay guys kali ini saya diminta untuk membuat desain ulang dari sebuah aplikasi mobile yang ada di Playstore aplikasi ini adalah aplikasi pencatatan hutang yang dibuat oleh teman kampus saya seorang developer mobile namanya Gusti Ngurah Mertayasa, kebetulan saya diminta untuk meredesign tampilan UI-nya. awalnya tampilannya seperti ini :
+Tools yang saya pakai untuk membuat UI baru dari aplikasi tersebut adalah Figma, saya membuat tampilan barunya sekitar 5 hari.</description>
     </item>
     
     <item>
