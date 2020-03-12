@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Faisal Kholid | Site &amp; Portofolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jan 2020 15:21:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 12:59:33 +0800</lastBuildDate>
     
 	<atom:link href="http://faisalkholid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,16 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Jika Aku UI/UX Designer di dicoding, maka sebaiknya beginilah halaman User Profil</title>
+      <link>http://faisalkholid.github.io/2020/dicoding/</link>
+      <pubDate>Thu, 12 Mar 2020 12:59:33 +0800</pubDate>
+      
+      <guid>http://faisalkholid.github.io/2020/dicoding/</guid>
+      <description>Hay nama saya Mohamad Faisal Kholid, kali ini saya mencoba meredesign tampilan website dari dicoding.com yaitu pada bagian User profile.
+sebelumnya desain User Profilenya seperti ini : saya memilih halaman profil untuk diredesign pada halaman www.dicoding.com, saya menggunakan tools Figma untuk membuat tampilan UI baruya saya menghilangkan beberapa element seperti gambar banner yang terlalu besar yang menurut saya tidak terlalu penting ditampilkan dan untuk tata letak dari foto profil saya membuatnya di side bar kanan lengkap dengan &amp;ldquo;tentang saya&amp;rdquo; bio dari si pemilik profile, side kanan bersifat tetap tidak bisa di scroll sedangkan sisi kiri adalah side yang bisa di scroll pada tab &amp;ldquo;tentang saya&amp;rdquo; dipindah di bawah profil, yang terdapat di side kiri terdapat menu bar academy dll.</description>
     </item>
     
     <item>
